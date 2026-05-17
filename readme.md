@@ -1,3 +1,6 @@
+# Dobrý den, nemám to celé, ale nějaký základ tam je. Mohl byste se prosím podívat, jestli je to zatím správně? Zbytek bych dokončila v průběhu příštího týdne. Děkuji
+
+
 # Simulace pohybů planet ve 2D
 
 ## Textový popis
